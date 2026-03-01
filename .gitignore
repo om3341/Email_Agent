@@ -1,0 +1,14 @@
+# Secrets
+backend/credentials.json
+backend/token.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
